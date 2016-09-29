@@ -10,6 +10,29 @@
 - http://localhost:3001
 
 
+### WAKAtime
+'
+12 hrs 27 mins
+
+More info
+Projects:
+howertonwhite 	12 hrs 14 mins
+Unknown Project 	13 mins
+
+Languages:
+HTML 	11 hrs 45 mins
+Other 	26 mins
+Text 	13 mins
+CSS 	3 mins
+
+Editors:
+IntelliJ 	12 hrs 14 mins
+Notepad++ 	13 mins
+
+Operating Systems:
+Windows 	17 hrs 28 mins
+'
+
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/110953/11445049/f05512ba-9520-11e5-8fdb-8c8eb5f690d0.jpg)](https://github.com/google/web-starter-kit/releases/latest)
 
 ## Overview
