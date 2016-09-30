@@ -312,12 +312,9 @@ mdl-mega-footer--top-section {
   .mobilelogo {
     position: relative;
     top: 50px;
-    left: -50px;
   }
 
-  .android-content.mdl-layout__content{
-    margin-top: 2em;
-  }
+
 
   .mdl-mega-footer--top-section {
     display: none;
@@ -325,6 +322,18 @@ mdl-mega-footer--top-section {
 
   .mdl-mega-footer--middle-section{
     display: block !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+  .mobilelogo {
+    position: relative;
+    top: 50px;
+    left: -50px;
+  }
+
+  .android-content.mdl-layout__content{
+    margin-top: 2em;
   }
 }
 
