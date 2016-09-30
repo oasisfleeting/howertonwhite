@@ -301,11 +301,30 @@ mdl-mega-footer--top-section {
   }
 }
 
+
 @media screen and (max-width: 1024px) {
   .mdl-layout__header-row {
     height: 56px;
     padding: 0 16px 0 72px;
     background-color: #d6bfae;
+  }
+
+  .mobilelogo {
+    position: relative;
+    top: 50px;
+    left: -50px;
+  }
+
+  .android-content.mdl-layout__content{
+    margin-top: 2em;
+  }
+
+  .mdl-mega-footer--top-section {
+    display: none;
+  }
+
+  .mdl-mega-footer--middle-section{
+    display: block !important;
   }
 }
 
