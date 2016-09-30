@@ -16,21 +16,30 @@
 
 `More info`
 `Projects:`
+
 `howertonwhite 	12 hrs 14 mins`
+
 `Unknown Project 	13 mins`
 
 `Languages:`
 `HTML 	11 hrs 45 mins`
+
 `Other 	26 mins`
+
 `Text 	13 mins`
+
 `CSS 	3 mins`
 
 `Editors:`
+
 `IntelliJ 	12 hrs 14 mins`
+
 `Notepad++ 	13 mins`
 
 `Operating Systems:`
+
 `Windows 	12 hrs 28 mins`
+
 `Linux 12 hrs 28 mins`
 
 
