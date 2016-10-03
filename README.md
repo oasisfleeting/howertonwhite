@@ -5,7 +5,7 @@
 - npm install
 - gulp default
 - gulp serve
-- gulp dist
+- gulp serve:dist
 - http://localhost:3000
 - http://localhost:3001
 
